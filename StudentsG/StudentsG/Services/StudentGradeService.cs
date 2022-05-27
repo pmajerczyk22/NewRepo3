@@ -1,10 +1,11 @@
-﻿using StudentsG.Models;
+﻿
+﻿using StudentsGrades.Models;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Linq;
 
-namespace StudentsG.Services
+namespace StudentsGrades.Services
 {
     public class StudentGradeService
     {
@@ -15,4 +16,5 @@ namespace StudentsG.Services
         }
 
     }
+
 }
